@@ -21,6 +21,12 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
 
+
+    <modules>
+        <module>dohko-sharding-table</module>
+        <module>dohko-sharding-db</module>
+    </modules>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
