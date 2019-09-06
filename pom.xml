@@ -25,6 +25,7 @@
     <modules>
         <module>dohko-sharding-table</module>
         <module>dohko-sharding-db</module>
+        <module>dohko-sharding-db-table</module>
     </modules>
 
     <dependencies>
